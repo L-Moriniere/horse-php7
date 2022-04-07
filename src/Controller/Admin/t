@@ -1,0 +1,19 @@
+# Disease
+INSERT INTO disease(name) VALUES('Maladie de Lyme');
+INSERT INTO disease(name) VALUES("L'amaigrissement");
+INSERT INTO disease(name) VALUES('Leptospirose');
+INSERT INTO disease(name) VALUES('La maladie de Cushing');
+INSERT INTO disease(name) VALUES('Myopathie atypique du cheval');
+
+# Injury
+INSERT INTO injury(name) VALUES('Les plaies superficielles');
+INSERT INTO injury(name) VALUES('Plaies abrasion sur la tête');
+INSERT INTO injury(name) VALUES('Plai chirurgicale');
+INSERT INTO injury(name) VALUES('Plaie grave avec ouverture');
+INSERT INTO injury(name) VALUES('Plaies non suturables');
+# Parasite
+INSERT INTO parasite(name) VALUES('Strongylus vulgaris');
+INSERT INTO parasite(name) VALUES('Parascaris equorum');
+INSERT INTO parasite(name) VALUES('Oxyuris equi');
+INSERT INTO parasite(name) VALUES('Anoplocephala perfoliata');
+INSERT INTO parasite(name) VALUES('magna');
